@@ -1,0 +1,6 @@
+{
+  "appId": "com.moto.dragsim",
+  "appName": "Moto Drag Simulator",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
